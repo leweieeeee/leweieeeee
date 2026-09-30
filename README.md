@@ -6,7 +6,13 @@ I am interested in quantum information and physics inspired machine learning
 
 My main tech stack consists of Python, Numpy, and Jax
 
-Also, I love the ocean, volleyball, and playing games!
+Also, I love:
+- the ocean
+- volleyball
+- playing games
+- reading Sci-Fi
+
+Contact me via Instagram
 
 <!--
 **leweieeeee/leweieeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
