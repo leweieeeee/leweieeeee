@@ -4,7 +4,7 @@ I'm Lewei, a computer engineering student at UC Santa Barbara
 
 I am interested in quantum information and physics inspired machine learning
 
-My main tech stack consists of Python, Numpy, and Jax
+My main tech stack consists of Python, Numpy, Jax, NetKet, Matplotlib, and Qiskit
 
 Also, I love:
 - the ocean
